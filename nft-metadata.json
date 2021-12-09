@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Winged",
+      "value": true
+    }
+  ],
+  "description": "Test creature",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRxGDD2aA5wZgC9Fkr3F9PCf23ifaqDZxrdh243MiGaDR",
+  "name": "Mario"
+}
